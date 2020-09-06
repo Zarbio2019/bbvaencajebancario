@@ -1,0 +1,330 @@
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Service.Implementation.exe
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Test.Implementation.exe
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Test.Implementation.deps.json
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Test.Implementation.runtimeconfig.json
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Test.Implementation.runtimeconfig.dev.json
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Test.Implementation.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Test.Implementation.pdb
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Practices.ServiceLocation.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Google.Apis.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Google.Apis.Calendar.v3.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\MailKit.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Antiforgery.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cors.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.DataProtection.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Localization.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Routing.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.WindowsServices.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Localization.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.WebEncoders.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\MimeKit.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\NETCore.MailKit.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\NPOI.OOXML.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\NPOI.OpenXml4Net.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\NPOI.OpenXmlFormats.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\NPOI.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\System.Data.Odbc.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\System.ServiceModel.Duplex.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\System.ServiceModel.Http.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\System.ServiceModel.Security.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Practices.Unity.Interception.Configuration.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Practices.Unity.Interception.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Practices.Unity.Configuration.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Practices.Unity.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\WebEssentials.AspNetCore.OutputCaching.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\ApplicationProy.Implementation.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Common.Implementation.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Domain.Implementation.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Infrastructure.Implementation.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Service.Implementation.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\EPPlus.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\itextsharp.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Service.Implementation.pdb
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\ApplicationProy.Implementation.pdb
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Common.Implementation.pdb
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Domain.Implementation.pdb
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Infrastructure.Implementation.pdb
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\obj\Debug\netcoreapp3.1\Test.Implementation.csprojAssemblyReference.cache
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\obj\Debug\netcoreapp3.1\Test.Implementation.AssemblyInfoInputs.cache
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\obj\Debug\netcoreapp3.1\Test.Implementation.AssemblyInfo.cs
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\obj\Debug\netcoreapp3.1\Test.Implementation.csproj.CopyComplete
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\obj\Debug\netcoreapp3.1\Test.Implementation.dll
+D:\Git\BBVA ENCAJE BANCARIO (NET Core)\Fuentes\Test.Implementation\obj\Debug\netcoreapp3.1\Test.Implementation.pdb
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\appsettings.json
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Service.Implementation.exe
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Test.Implementation.exe
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Test.Implementation.deps.json
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Test.Implementation.runtimeconfig.json
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Test.Implementation.runtimeconfig.dev.json
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Test.Implementation.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Test.Implementation.pdb
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Practices.ServiceLocation.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Google.Apis.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Google.Apis.Calendar.v3.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\MailKit.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Antiforgery.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Core.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cors.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.DataProtection.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Extensions.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Localization.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Core.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Routing.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Composite.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.WindowsServices.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Localization.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Localization.Abstractions.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.WebEncoders.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\MimeKit.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\NETCore.MailKit.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\NPOI.OOXML.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\NPOI.OpenXml4Net.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\NPOI.OpenXmlFormats.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\NPOI.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\System.Data.Odbc.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\System.ServiceModel.Duplex.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\System.ServiceModel.Http.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\System.ServiceModel.Security.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Practices.Unity.Interception.Configuration.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Practices.Unity.Interception.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Practices.Unity.Configuration.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Practices.Unity.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\WebEssentials.AspNetCore.OutputCaching.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\ApplicationProy.Implementation.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Common.Implementation.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Domain.Implementation.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Infrastructure.Implementation.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Service.Implementation.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\EPPlus.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\itextsharp.dll
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Service.Implementation.pdb
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\ApplicationProy.Implementation.pdb
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Common.Implementation.pdb
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Domain.Implementation.pdb
+D:\te\Fuentes\Test.Implementation\bin\Debug\netcoreapp3.1\Infrastructure.Implementation.pdb
+D:\te\Fuentes\Test.Implementation\obj\Debug\netcoreapp3.1\Test.Implementation.csprojAssemblyReference.cache
+D:\te\Fuentes\Test.Implementation\obj\Debug\netcoreapp3.1\Test.Implementation.AssemblyInfoInputs.cache
+D:\te\Fuentes\Test.Implementation\obj\Debug\netcoreapp3.1\Test.Implementation.AssemblyInfo.cs
+D:\te\Fuentes\Test.Implementation\obj\Debug\netcoreapp3.1\Test.Implementation.csproj.CopyComplete
+D:\te\Fuentes\Test.Implementation\obj\Debug\netcoreapp3.1\Test.Implementation.dll
+D:\te\Fuentes\Test.Implementation\obj\Debug\netcoreapp3.1\Test.Implementation.pdb

@@ -1,0 +1,479 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Git\\appencajebancario\\Fuentes\\TestLayer.Implementation\\TestLayer.Implementation.csproj": {}
+  },
+  "projects": {
+    "D:\\Git\\appencajebancario\\Fuentes\\ApplicationLayer.Implementation\\ApplicationLayer.Implementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Git\\appencajebancario\\Fuentes\\ApplicationLayer.Implementation\\ApplicationLayer.Implementation.csproj",
+        "projectName": "ApplicationLayer.Implementation",
+        "projectPath": "D:\\Git\\appencajebancario\\Fuentes\\ApplicationLayer.Implementation\\ApplicationLayer.Implementation.csproj",
+        "packagesPath": "C:\\Users\\749706\\.nuget\\packages\\",
+        "outputPath": "D:\\Git\\appencajebancario\\Fuentes\\ApplicationLayer.Implementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\749706\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Git\\appencajebancario\\Fuentes\\InfrastructureLayer.Implementation\\InfrastructureLayer.Implementation.csproj": {
+                "projectPath": "D:\\Git\\appencajebancario\\Fuentes\\InfrastructureLayer.Implementation\\InfrastructureLayer.Implementation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Git\\appencajebancario\\Fuentes\\CommonLayer.Implementation\\CommonLayer.Implementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Git\\appencajebancario\\Fuentes\\CommonLayer.Implementation\\CommonLayer.Implementation.csproj",
+        "projectName": "CommonLayer.Implementation",
+        "projectPath": "D:\\Git\\appencajebancario\\Fuentes\\CommonLayer.Implementation\\CommonLayer.Implementation.csproj",
+        "packagesPath": "C:\\Users\\749706\\.nuget\\packages\\",
+        "outputPath": "D:\\Git\\appencajebancario\\Fuentes\\CommonLayer.Implementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\749706\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "EnterpriseLibrary.Data.NetCore": {
+              "target": "Package",
+              "version": "[6.0.1313, )"
+            },
+            "Google.Apis": {
+              "target": "Package",
+              "version": "[1.46.0, )"
+            },
+            "Google.Apis.Auth": {
+              "target": "Package",
+              "version": "[1.46.0, )"
+            },
+            "Google.Apis.Calendar.v3": {
+              "target": "Package",
+              "version": "[1.45.0.1949, )"
+            },
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.9.1, )"
+            },
+            "Grpc.Net.ClientFactory": {
+              "target": "Package",
+              "version": "[2.23.2, )"
+            },
+            "Grpc.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.23.0, )"
+            },
+            "Microsoft.AspNetCore.Html.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "NETCore.MailKit": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "NPOI": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Dynamic.Runtime": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Linq.Dynamic.Core": {
+              "target": "Package",
+              "version": "[1.0.20, )"
+            },
+            "System.ServiceModel.Duplex": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.ServiceModel.Http": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.ServiceModel.NetTcp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.ServiceModel.Security": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "WebEssentials.AspNetCore.OutputCaching": {
+              "target": "Package",
+              "version": "[1.0.28, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Git\\appencajebancario\\Fuentes\\DomainLayer.Implementation\\DomainLayer.Implementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Git\\appencajebancario\\Fuentes\\DomainLayer.Implementation\\DomainLayer.Implementation.csproj",
+        "projectName": "DomainLayer.Implementation",
+        "projectPath": "D:\\Git\\appencajebancario\\Fuentes\\DomainLayer.Implementation\\DomainLayer.Implementation.csproj",
+        "packagesPath": "C:\\Users\\749706\\.nuget\\packages\\",
+        "outputPath": "D:\\Git\\appencajebancario\\Fuentes\\DomainLayer.Implementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\749706\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Git\\appencajebancario\\Fuentes\\CommonLayer.Implementation\\CommonLayer.Implementation.csproj": {
+                "projectPath": "D:\\Git\\appencajebancario\\Fuentes\\CommonLayer.Implementation\\CommonLayer.Implementation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Git\\appencajebancario\\Fuentes\\InfrastructureLayer.Implementation\\InfrastructureLayer.Implementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Git\\appencajebancario\\Fuentes\\InfrastructureLayer.Implementation\\InfrastructureLayer.Implementation.csproj",
+        "projectName": "InfrastructureLayer.Implementation",
+        "projectPath": "D:\\Git\\appencajebancario\\Fuentes\\InfrastructureLayer.Implementation\\InfrastructureLayer.Implementation.csproj",
+        "packagesPath": "C:\\Users\\749706\\.nuget\\packages\\",
+        "outputPath": "D:\\Git\\appencajebancario\\Fuentes\\InfrastructureLayer.Implementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\749706\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Git\\appencajebancario\\Fuentes\\DomainLayer.Implementation\\DomainLayer.Implementation.csproj": {
+                "projectPath": "D:\\Git\\appencajebancario\\Fuentes\\DomainLayer.Implementation\\DomainLayer.Implementation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Git\\appencajebancario\\Fuentes\\ServiceLayer.Implementation\\ServiceLayer.Implementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Git\\appencajebancario\\Fuentes\\ServiceLayer.Implementation\\ServiceLayer.Implementation.csproj",
+        "projectName": "ServiceLayer.Implementation",
+        "projectPath": "D:\\Git\\appencajebancario\\Fuentes\\ServiceLayer.Implementation\\ServiceLayer.Implementation.csproj",
+        "packagesPath": "C:\\Users\\749706\\.nuget\\packages\\",
+        "outputPath": "D:\\Git\\appencajebancario\\Fuentes\\ServiceLayer.Implementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\749706\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Git\\appencajebancario\\Fuentes\\ApplicationLayer.Implementation\\ApplicationLayer.Implementation.csproj": {
+                "projectPath": "D:\\Git\\appencajebancario\\Fuentes\\ApplicationLayer.Implementation\\ApplicationLayer.Implementation.csproj"
+              },
+              "D:\\Git\\appencajebancario\\Fuentes\\CommonLayer.Implementation\\CommonLayer.Implementation.csproj": {
+                "projectPath": "D:\\Git\\appencajebancario\\Fuentes\\CommonLayer.Implementation\\CommonLayer.Implementation.csproj"
+              },
+              "D:\\Git\\appencajebancario\\Fuentes\\DomainLayer.Implementation\\DomainLayer.Implementation.csproj": {
+                "projectPath": "D:\\Git\\appencajebancario\\Fuentes\\DomainLayer.Implementation\\DomainLayer.Implementation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.Hosting.WindowsServices": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Git\\appencajebancario\\Fuentes\\TestLayer.Implementation\\TestLayer.Implementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Git\\appencajebancario\\Fuentes\\TestLayer.Implementation\\TestLayer.Implementation.csproj",
+        "projectName": "TestLayer.Implementation",
+        "projectPath": "D:\\Git\\appencajebancario\\Fuentes\\TestLayer.Implementation\\TestLayer.Implementation.csproj",
+        "packagesPath": "C:\\Users\\749706\\.nuget\\packages\\",
+        "outputPath": "D:\\Git\\appencajebancario\\Fuentes\\TestLayer.Implementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\749706\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Git\\appencajebancario\\Fuentes\\ServiceLayer.Implementation\\ServiceLayer.Implementation.csproj": {
+                "projectPath": "D:\\Git\\appencajebancario\\Fuentes\\ServiceLayer.Implementation\\ServiceLayer.Implementation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
